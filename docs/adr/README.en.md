@@ -5,7 +5,7 @@
 **Document:** Architecture Decision Index  
 **Version:** 1.0  
 **Milestone:** M0 - Kickoff & Planning  
-**Status:** Active  
+**Status:** Proposed  
 
 ## 📌 What is an ADR?
 

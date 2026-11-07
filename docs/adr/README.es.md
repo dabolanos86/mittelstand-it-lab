@@ -4,7 +4,7 @@
 **Documento:** Índice de Decisiones de Arquitectura  
 **Versión:** 1.0  
 **Hito:** M0 - Kickoff & Planning  
-**Estado:** Activo  
+**Estado:** Propuesto  
 
 ## 📌 ¿Qué es un ADR?
 

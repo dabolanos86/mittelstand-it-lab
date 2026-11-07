@@ -5,7 +5,7 @@
 **Dokument:** Architektur-Entscheidungsindex  
 **Version:** 1.0  
 **Meilenstein:** M0 - Kickoff & Planung  
-**Status:** Aktiv  
+**Status:** Vorgeschlagen  
 
 ## 📌 Was ist ein ADR?
 
