@@ -1,0 +1,33 @@
+# --- Ubuntu host / KVM / libvirt ---
+*.qcow2
+*.img
+*.iso
+*.vmdk
+*.raw
+*.bkp
+/var/lib/libvirt/images/
+*.log
+
+# --- Proxmox / backups ---
+*.vma
+*.vma.zst
+dump/
+*.tar.zst
+
+# --- Windows Server ---
+*.vhd
+*.vhdx
+Thumbs.db
+desktop.ini
+
+# --- Editores / SO ---
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# --- Secretos y credenciales (crítico en un lab con firewall) ---
+.env
+*.key
+*.pem
+secrets/
