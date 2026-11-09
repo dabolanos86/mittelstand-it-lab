@@ -6,6 +6,7 @@
 **Version:** 1.0  
 **Milestone:** M0 - Kickoff & Planning  
 **Status:** Proposed  
+**Date:** 2026-11-09
 
 ## 📌 What is an ADR?
 
@@ -30,6 +31,7 @@ In this project, ADRs follow Michael Nygard's standard format:
 | :--- | :--- | :--- | :--- | :--- |
 | [001](./001-ai-translation.en.md) | Translation strategy and README language versions | M0 | ✅ Accepted | [ES](./001-ai-translation.es.md) · [EN](./001-ai-translation.en.md) · [DE](./001-ai-translation.md) |
 | [002](./002-nested-virtualization.en.md) | Nested virtualization: Proxmox VE on KVM/QEMU | M0 | ✅ Accepted | [ES](./002-nested-virtualization.es.md) · [EN](./002-nested-virtualization.en.md) · [DE](./002-nested-virtualization.md) |
+| [003](./003-opnsense-vs-pfsense.en.md) | Choosing OPNsense over pfSense as Perimeter Firewall | M0 | ✅ Accepted | [ES](./003-opnsense-vs-pfsense.es.md) · [EN](./003-opnsense-vs-pfsense.en.md) · [DE](./003-opnsense-vs-pfsense.md) |
 
 > **Note:** The table will be updated as new ADRs are added in subsequent milestones (M1, M2, M3...).
 
