@@ -28,7 +28,8 @@ In this project, ADRs follow Michael Nygard's standard format:
 
 | ID | Title | Milestone | Status | Languages |
 | :--- | :--- | :--- | :--- | :--- |
-| [001](./001-ai-translation.es.md) | Translation strategy and README language versions | M0 | ✅ Accepted | [ES](./001-ai-translation.es.md) · [EN](./001-ai-translation.en.md) · [DE](./001-ai-translation.md) |
+| [001](./001-ai-translation.en.md) | Translation strategy and README language versions | M0 | ✅ Accepted | [ES](./001-ai-translation.es.md) · [EN](./001-ai-translation.en.md) · [DE](./001-ai-translation.md) |
+| [002](./002-nested-virtualization.en.md) | Nested virtualization: Proxmox VE on KVM/QEMU | M0 | ✅ Accepted | [ES](./002-nested-virtualization.es.md) · [EN](./002-nested-virtualization.en.md) · [DE](./002-nested-virtualization.md) |
 
 > **Note:** The table will be updated as new ADRs are added in subsequent milestones (M1, M2, M3...).
 
