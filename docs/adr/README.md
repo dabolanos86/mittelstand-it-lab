@@ -6,7 +6,7 @@
 **Version:** 1.0  
 **Meilenstein:** M0 - Kickoff & Planung  
 **Status:** Vorgeschlagen  
-**Datum:** 2026-11-09
+**Datum:** 2026-11-10
 
 ## 📌 Was ist ein ADR?
 
@@ -30,9 +30,10 @@ In diesem Projekt folgen ADRs dem Standardformat von Michael Nygard:
 | ID | Titel | Meilenstein | Status | Sprachen |
 | :--- | :--- | :--- | :--- | :--- |
 | [001](./001-ai-translation.es.md) | Übersetzungsstrategie und Sprachversionen der README | M0 | ✅ Akzeptiert | [ES](./001-ai-translation.es.md) · [EN](./001-ai-translation.en.md) · [DE](./001-ai-translation.md) |
-| [002](./002-nested-virtualization.md) | Verschachtelte Virtualisierung: Proxmox VE auf KVM/QEMU | M0 | ✅ Akzeptiert | [ES](./002-nested-virtualization.es.md) · [EN](./002-nested-virtualization.en.md) · [DE](./002-nested-virtualization.md) |
+| [002](./002-nested-virtualization.es.md) | Verschachtelte Virtualisierung: Proxmox VE auf KVM/QEMU | M0 | ⚠️ Ersetzt durch [ADR-005](./005-replace-adr-002.md) | [ES](./002-nested-virtualization.es.md) · [EN](./002-nested-virtualization.en.md) · [DE](./002-nested-virtualization.de.md) |
 | [003](./003-opnsense-vs-pfsense.md) | Wahl von OPNsense gegenüber pfSense als Perimeter-Firewall | M0 | ✅ Akzeptiert | [ES](./003-opnsense-vs-pfsense.es.md) · [EN](./003-opnsense-vs-pfsense.en.md) · [DE](./003-opnsense-vs-pfsense.md) |
 | [004](./004-vlan-design.md) | VLAN-Design und VLSM-Adressierung | M0 | ✅ Akzeptiert | [ES](./004-vlan-design.es.md) · [EN](./004-vlan-design.en.md) · [DE](./004-vlan-design.md) |
+| [005](./005-replace-adr-002.md) | Ersetzung des ADR-002 aufgrund einer Softwareversionskorrektur | M0 | ✅ Akzeptiert | [ES](./005-replace-adr-002.es.md) · [EN](./005-replace-adr-002.en.md) · [DE](./005-replace-adr-002.md) |
 
 > **Hinweis:** Die Tabelle wird aktualisiert, sobald in späteren Meilensteinen (M1, M2, M3...) neue ADRs hinzugefügt werden.
 
