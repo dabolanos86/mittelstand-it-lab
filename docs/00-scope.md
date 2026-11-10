@@ -7,7 +7,7 @@
 **Meilenstein:** M0 - Kickoff & Planung  
 **Status:** Vorgeschlagen  
 **Autor:** Ing. Daniel Alejandro Bolanos Solana  
-**Datum:** 2026-11-08  
+**Datum:** 2026-11-10  
 
 ## 1. Projektzweck
 
@@ -21,9 +21,9 @@ Das Labor entstand aus **12 Jahren Betrieb kritischer Infrastrukturen** (interna
 
 | Komponente | Beschreibung |
 | :--- | :--- |
-| **Physischer Host (L0)** | Ubuntu 24.04 LTS mit KVM/QEMU und libvirt als Virtualisierungsschicht. |
-| **Plattform (L1)** | Proxmox VE 8.2 als VM auf der L0-Schicht bereitgestellt. |
-| **Edge (L2)** | OPNsense 24.1 als Perimeter-Firewall und Segmentierungs-Engine. |
+| **Physischer Host (L0)** | Ubuntu 26.04.1 LTS mit KVM/QEMU und libvirt als Virtualisierungsschicht. |
+| **Plattform (L1)** | Proxmox VE 9.2-1 als VM auf der L0-Schicht bereitgestellt. |
+| **Edge (L2)** | OPNsense 26.7 als Perimeter-Firewall und Segmentierungs-Engine. |
 | **Windows-Workloads** | Windows Server 2025 (DC01, DC02) mit AD-, DHCP- und DNS-Rollen. |
 | **Linux-Workloads** | Debian 13 (MON01 für Zabbix, Client02 für kritische Tests). |
 | **Clients** | Windows 11 (Client01) und Debian 13 (Client02). |

@@ -7,7 +7,7 @@
 **Milestone:** M0 - Kickoff & Planning  
 **Status:** Proposed  
 **Author:** Ing. Daniel Alejandro Bolanos Solana  
-**Date:** 2026-11-08  
+**Date:** 2026-11-10  
 
 ## 1. Project Purpose
 
@@ -21,9 +21,9 @@ The lab stems from **12 years operating critical infrastructures** (internationa
 
 | Component | Description |
 | :--- | :--- |
-| **Physical host (L0)** | Ubuntu 24.04 LTS with KVM/QEMU and libvirt as the virtualization layer. |
-| **Platform (L1)** | Proxmox VE 8.2 deployed as a VM on the L0 layer. |
-| **Edge (L2)** | OPNsense 24.1 as perimeter firewall and segmentation engine. |
+| **Physical host (L0)** | Ubuntu 26.04.1 LTS with KVM/QEMU and libvirt as the virtualization layer. |
+| **Platform (L1)** | Proxmox VE 9.2-1 deployed as a VM on the L0 layer. |
+| **Edge (L2)** | OPNsense 26.7 as perimeter firewall and segmentation engine. |
 | **Windows workloads** | Windows Server 2025 (DC01, DC02) with AD, DHCP and DNS roles. |
 | **Linux workloads** | Debian 13 (MON01 for Zabbix, Client02 for critical testing). |
 | **Clients** | Windows 11 (Client01) and Debian 13 (Client02). |

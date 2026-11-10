@@ -6,7 +6,7 @@
 **Hito:** M0 - Kickoff & Planning  
 **Estado:** Propuesto  
 **Autor:** Ing. Daniel Alejandro Bolanos Solana  
-**Fecha:** 2026-11-08  
+**Fecha:** 2026-11-10  
 
 ## 1. Propósito del Proyecto
 
@@ -20,9 +20,9 @@ El laboratorio nace de **12 años operando infraestructuras críticas** (aeropue
 
 | Componente | Descripción |
 | :--- | :--- |
-| **Host físico (L0)** | Ubuntu 24.04 LTS con KVM/QEMU y libvirt como capa de virtualización. |
-| **Plataforma (L1)** | Proxmox VE 8.2 desplegado como VM sobre la capa L0. |
-| **Borde (L2)** | OPNsense 24.1 como firewall perimetral y motor de segmentación. |
+| **Host físico (L0)** | Ubuntu 26.04.1 LTS con KVM/QEMU y libvirt como capa de virtualización. |
+| **Plataforma (L1)** | Proxmox VE 9.2-1 desplegado como VM sobre la capa L0. |
+| **Borde (L2)** | OPNsense 26.7 como firewall perimetral y motor de segmentación. |
 | **Cargas Windows** | Windows Server 2025 (DC01, DC02) con roles AD, DHCP y DNS. |
 | **Cargas Linux** | Debian 13 (MON01 para Zabbix, Client02 para pruebas críticas). |
 | **Clientes** | Windows 11 (Client01) y Debian 13 (Client02). |
