@@ -6,7 +6,7 @@
 **Versión:** 1.0  
 **Hito:** M0 - Kickoff & Planning  
 **Estado:** Propuesto  
-**Fecha:** 2026-11-10  
+**Fecha:** 2026-11-15  
 
 ## 📌 Propósito de este directorio
 
@@ -24,13 +24,13 @@ Esta carpeta contiene la documentación técnica del proyecto, organizada por hi
 
 | Documento | Descripción | Idiomas |
 | :--- | :--- | :--- |
-| [`architecture/`](./architecture/) | Diagramas, plan de IPs y matriz de flujos. | [ES](./architecture/README.es.md) · [EN](./architecture/README.en.md) · [DE](./architecture/README.md) |
+| [`architecture/README.es.md`](./architecture/README.es.md) | Diagramas, plan de IPs y matriz de flujos. | [ES](./architecture/README.es.md) · [EN](./architecture/README.en.md) · [DE](./architecture/README.md) |
 
 ### Decisiones de Arquitectura (ADRs)
 
 | Documento | Descripción | Idiomas |
 | :--- | :--- | :--- |
-| [`adr/`](./adr/) | Registro de decisiones técnicas y de proceso. | [ES](./adr/README.es.md) · [EN](./adr/README.en.md) · [DE](./adr/README.md) |
+| [`adr/README.es.md`](./adr/README.es.md) | Registro de decisiones técnicas y de proceso. | [ES](./adr/README.es.md) · [EN](./adr/README.en.md) · [DE](./adr/README.md) |
 
 ### Documentación por Hito
 

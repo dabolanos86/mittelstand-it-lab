@@ -6,7 +6,7 @@
 **Version:** 1.0  
 **Milestone:** M0 - Kickoff & Planning  
 **Status:** Proposed  
-**Date:** 2026-11-10  
+**Date:** 2026-11-15  
 
 ## 📌 Purpose of this directory
 
@@ -24,19 +24,19 @@ This folder contains the project's technical documentation, organized by milesto
 
 | Document | Description | Languages |
 | :--- | :--- | :--- |
-| [`architecture/`](./architecture/) | Diagrams, IP plan and flow matrix. | [ES](./architecture/README.es.md) · [EN](./architecture/README.en.md) · [DE](./architecture/README.md) |
+| [`architecture/README.en.md`](./architecture/README.en.md) | Diagrams, IP plan and flow matrix. | [ES](./architecture/README.es.md) · [EN](./architecture/README.en.md) · [DE](./architecture/README.md) |
 
 ### Architecture Decision Records (ADRs)
 
 | Document | Description | Languages |
 | :--- | :--- | :--- |
-| [`adr/`](./adr/) | Record of technical and process decisions. | [ES](./adr/README.es.md) · [EN](./adr/README.en.md) · [DE](./adr/README.md) |
+| [`adr/README.en.md`](./adr/README.en.md) | Record of technical and process decisions. | [ES](./adr/README.es.md) · [EN](./adr/README.en.md) · [DE](./adr/README.md) |
 
 ### Documentation per Milestone
 
 | Milestone | Document | Status |
 | :--- | :--- | :--- |
-| M0 | `00-scope.es.md` | ✅ Completed |
+| M0 | `00-scope.en.md` | ✅ Completed |
 | M1 | `01-host-kvm-audit.md` | ⬜ Pending |
 | M2 | `02-proxmox-deployment.md` | ⬜ Pending |
 | M3 | `03-opnsense-segmentation.md` | ⬜ Pending |
