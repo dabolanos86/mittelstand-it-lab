@@ -5,9 +5,9 @@
 **Document:** 00 - Scope & Objectives  
 **Version:** 1.0  
 **Milestone:** M0 - Kickoff & Planning  
-**Status:** Proposed  
+**Status:** Accepted  
 **Author:** Ing. Daniel Alejandro Bolanos Solana  
-**Date:** 2026-11-10  
+**Date:** 2026-11-15  
 
 ## 1. Project Purpose
 

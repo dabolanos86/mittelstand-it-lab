@@ -6,8 +6,8 @@
 **Document:** Network Flow Matrix & Firewall Policy  
 **Version:** 1.0  
 **Milestone:** M0 - Kickoff & Planning  
-**Status:** Proposed  
-**Date:** 2026-11-05  
+**Status:** Accepted  
+**Date:** 2026-11-15  
 
 ## 1. Executive Summary
 

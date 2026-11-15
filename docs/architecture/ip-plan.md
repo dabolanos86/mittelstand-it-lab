@@ -6,8 +6,8 @@
 **Dokument:** IP Addressing Plan & Network Topology  
 **Version:** 1.0  
 **Meilenstein:** M0 - Kickoff & Planung  
-**Status:** Vorgeschlagen  
-**Datum:** 2026-11-05  
+**Status:** Akzeptiert  
+**Datum:** 2026-11-15  
 
 ## 1. Zusammenfassung
 Dieses Dokument definiert die IPv4-Adresszuweisung, die VLAN-Segmentierung und die logische Topologie der virtualisierten Infrastruktur. Das Design wendet das **Least-Privilege**-Prinzip durch die Verwendung von VLSM (Variable Length Subnet Mask) an und trennt strikt den Management-, Server-, normalen Client-, kritischen Client- und Administrationsverkehr.

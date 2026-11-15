@@ -4,9 +4,9 @@
 **Documento:** 00 - Scope & Objectives  
 **Versión:** 1.0  
 **Hito:** M0 - Kickoff & Planning  
-**Estado:** Propuesto  
+**Estado:** Aceptado  
 **Autor:** Ing. Daniel Alejandro Bolanos Solana  
-**Fecha:** 2026-11-10  
+**Fecha:** 2026-11-15  
 
 ## 1. Propósito del Proyecto
 

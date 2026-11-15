@@ -4,8 +4,8 @@
 **Documento:** Índice de Decisiones de Arquitectura  
 **Versión:** 1.0  
 **Hito:** M0 - Kickoff & Planning  
-**Estado:** Propuesto  
-**Fecha:** 2026-11-10 
+**Estado:** Accepted  
+**Fecha:** 2026-11-15 
 
 ## 📌 ¿Qué es un ADR?
 

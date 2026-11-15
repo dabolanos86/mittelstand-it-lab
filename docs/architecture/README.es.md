@@ -5,8 +5,8 @@
 **Documento:** Índice de Arquitectura  
 **Versión:** 1.0  
 **Hito:** M0 - Kickoff & Planning  
-**Estado:** Proposed  
-**Fecha:** 2026-11-10  
+**Estado:** Aceptado  
+**Fecha:** 2026-11-15  
 
 ## 📌 Propósito de este directorio
 

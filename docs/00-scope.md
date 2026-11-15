@@ -5,9 +5,9 @@
 **Dokument:** 00 - Scope & Objectives  
 **Version:** 1.0  
 **Meilenstein:** M0 - Kickoff & Planung  
-**Status:** Vorgeschlagen  
+**Status:** Akzeptiert  
 **Autor:** Ing. Daniel Alejandro Bolanos Solana  
-**Datum:** 2026-11-10  
+**Datum:** 2026-11-15  
 
 ## 1. Projektzweck
 

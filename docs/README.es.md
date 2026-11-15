@@ -5,7 +5,7 @@
 **Documento:** Índice General de Documentación  
 **Versión:** 1.0  
 **Hito:** M0 - Kickoff & Planning  
-**Estado:** Propuesto  
+**Estado:** Aceptado  
 **Fecha:** 2026-11-15  
 
 ## 📌 Propósito de este directorio

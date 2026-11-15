@@ -5,8 +5,8 @@
 **Document:** Architecture Index  
 **Version:** 1.0  
 **Milestone:** M0 - Kickoff & Planning  
-**Status:** Proposed  
-**Date:** 2026-11-10  
+**Status:** Accepted  
+**Date:** 2026-11-15  
 
 ## 📌 Purpose of this directory
 

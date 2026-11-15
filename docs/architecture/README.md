@@ -5,8 +5,8 @@
 **Dokument:** Architektur-Index  
 **Version:** 1.0  
 **Meilenstein:** M0 - Kickoff & Planung  
-**Status:** Vorgeschlagen  
-**Datum:** 2026-11-10  
+**Status:** Akzeptiert  
+**Datum:** 2026-11-15  
 
 ## 📌 Zweck dieses Verzeichnisses
 

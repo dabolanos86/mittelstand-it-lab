@@ -5,7 +5,7 @@
 **Dokument:** Allgemeiner Dokumentationsindex  
 **Version:** 1.0  
 **Meilenstein:** M0 - Kickoff & Planung  
-**Status:** Vorgeschlagen  
+**Status:** Akzeptiert  
 **Datum:** 2026-11-15  
 
 ## 📌 Zweck dieses Verzeichnisses

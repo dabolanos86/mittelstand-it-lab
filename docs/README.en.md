@@ -5,7 +5,7 @@
 **Document:** General Documentation Index  
 **Version:** 1.0  
 **Milestone:** M0 - Kickoff & Planning  
-**Status:** Proposed  
+**Status:** Accepted  
 **Date:** 2026-11-15  
 
 ## 📌 Purpose of this directory

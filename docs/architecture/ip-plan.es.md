@@ -5,8 +5,8 @@
 **Documento:** IP Addressing Plan & Network Topology  
 **Versión:** 1.0  
 **Hito:** M0 - Kickoff & Planning  
-**Estado:** Proposed  
-**Fecha:** 2026-11-05  
+**Estado:** Aceptado  
+**Fecha:** 2026-11-15  
 
 ## 1. Resumen Ejecutivo
 Este documento define la asignación de direccionamiento IPv4, la segmentación de VLANs y la topología lógica de la infraestructura virtualizada. El diseño aplica el principio de **mínimo privilegio** mediante el uso de VLSM (Variable Length Subnet Mask), separando estrictamente el tráfico de gestión, servidores, clientes normales, clientes críticos y la red de administración.
@@ -54,5 +54,5 @@ La VM del Firewall (`FW01`) es el nodo central de enrutamiento. Sus interfaces v
 
 1.  **Bridge en el Host Físico (L0):** El archivo `/etc/netplan/00-installer-config.yaml` del host Ubuntu deberá configurar un bridge (`vmbr0`) con la IP `192.168.1.37/24` para dar salida a la WAN del Firewall y permitir el acceso al host.
 2.  **VLAN-Aware Bridge en Proxmox (L1):** El bridge interno de Proxmox debe estar configurado como *VLAN-Aware* para que el Firewall pueda etiquetar el tráfico de las diferentes subredes (14, 7, 3, etc.) sin necesidad de crear un bridge físico por cada VLAN.
-3.  **Default-Deny:** La política inicial del firewall (`FW01`) en todas las interfaces LAN será **denegar todo el tráfico** y luego aplicar las excepciones documentadas en el archivo `flow-matrix.md`.
+3.  **Default-Deny:** La política inicial del firewall (`FW01`) en todas las interfaces LAN será **denegar todo el tráfico** y luego aplicar las excepciones documentadas en el archivo `flow-matrix.es.md`.
 4.  **Reserva de IPs WAN:** La IP `192.168.1.50` debe estar reservada fuera del pool DHCP del router físico (ISP) para garantizar que el Firewall siempre reciba la misma dirección en la WAN.
